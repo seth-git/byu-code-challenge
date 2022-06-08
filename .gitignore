@@ -1,5 +1,19 @@
 .idea
-node_modules
 
-webservice/dist/*
+webservice/dist
 webservice/api-key.txt
+webservice/node_modules
+
+webapp/.DS_Store
+webapp/node_modules
+webapp/dist
+
+# local env files
+webapp/.env.local
+webapp/.env.*.local
+
+# Log files
+webapp/npm-debug.log*
+webapp/yarn-debug.log*
+webapp/yarn-error.log*
+webapp/pnpm-debug.log*
