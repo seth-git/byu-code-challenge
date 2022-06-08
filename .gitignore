@@ -1,0 +1,5 @@
+.idea
+node_modules
+
+webservice/dist/*
+webservice/api-key.txt
